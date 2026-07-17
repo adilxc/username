@@ -24,8 +24,7 @@ SECRET_KEY = 'django-insecure-$g)sz0@1(mslu$(4m9bkw9ntb$p42#e5why^melf(7y1x9*__k
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['logiii-latest.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
